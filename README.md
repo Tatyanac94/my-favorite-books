@@ -11,7 +11,7 @@ This is a Next.js application named My Favorite Books. It includes a simple home
 
 ## How to Run
 
-1. Clone the repository: git clone [repository URL]
+1. Clone the repository: [https://github.com/Tatyanac94/my-favorite-books.git](https://github.com/Tatyanac94/my-favorite-books.git)
 
 2. Navigate to the project directory: `cd [project-directory]`
 
