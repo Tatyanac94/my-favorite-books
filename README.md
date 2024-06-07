@@ -7,8 +7,6 @@
 
 A few lists of my top favorite books
 
- [My Live Site on Vercel](https://my-favorite-books-ten.vercel.app/)
-
 This is a Next.js application named My Favorite Books. It includes a simple home page with navigation links styled using Tailwind CSS.
 
 ## How to Run
@@ -25,7 +23,7 @@ This is a Next.js application named My Favorite Books. It includes a simple home
 
 ## Deployment
 
-This application is deployed on Vercel. You can view the live site at: [deployment URL]
+This application is deployed on Vercel. You can view the live site at:  [My Favorite Books](https://my-favorite-books-ten.vercel.app/)
 
 - Technologies Used
 
