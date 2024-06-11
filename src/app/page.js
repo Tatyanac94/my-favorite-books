@@ -23,7 +23,7 @@ const Home = () => (
         </ul>
       </div>
 
-      {/* Favorite Teen Books */}
+      
       <div className="mb-6">
         <h3 className="mb-6 text-3xl font-bold text-blue-600 underline">My Favorite Teen Books</h3>
         <ul className="mb-6  font-bold text-gray-600 list-disc">
@@ -35,7 +35,7 @@ const Home = () => (
         </ul>
       </div>
 
-      {/* Favorite Adult Books */}
+     
       <div className="mb-6">
         <h3 className="mb-6 text-3xl font-bold text-blue-600 underline">My Favorite Adult Books</h3>
         <ul className="mb-6  font-bold text-gray-600 list-disc">
